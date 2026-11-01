@@ -41,7 +41,7 @@ async function startHanz() {
     if (!global.__hanzBannerShown) {
         global.__hanzBannerShown = true
         printBanner(alreadyRegistered)
-        logEvent('START', `Bot dijalankan (PID ${process.pid}, Node ${process.version})`, 'info')
+        logEvent('START', `Bot dijalankan, Node ${process.version}`, 'info')
     }
 
     let version
