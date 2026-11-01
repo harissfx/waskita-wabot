@@ -1,0 +1,6 @@
+node_modules/
+database/session/*
+!database/session/.gitkeep
+database/*.json
+database/*.json.corrupt-*
+database/.restart.json

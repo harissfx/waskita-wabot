@@ -1,0 +1,17 @@
+{
+  "botName": "HanzOfc Bot",
+  "ownerName": "HanzOfc Dev",
+  "owner": [
+    "628xxxxxxxxxx"
+  ],
+  "packname": "HanzOfc",
+  "author": "waskita-wabot",
+  "prefix": "",
+  "sessionName": "session",
+  "pairingNumber": "",
+  "usePairingCode": true,
+  "public": true,
+  "noPrefix": true,
+  "timezone": "Asia/Jakarta",
+  "channelId": "120363185570235320@newsletter"
+}
